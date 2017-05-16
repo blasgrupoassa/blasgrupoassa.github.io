@@ -1,0 +1,116 @@
+body{
+  background: #34495E;
+  color:white;
+}
+
+p.first_title{
+  margin-top: 20px;
+  font-weight: bold;
+  font-size:24px;
+  color: #34495E;
+  background:#2ecc71;
+  width:73px;
+}
+
+
+p.first_title_idioma{
+	margin-top: 20px;
+    font-weight: bold;
+    font-size:20px;
+    color: #34495E;
+	background:#2ecc71;
+	width:65px;
+}
+
+p.first_title_Skills{
+	margin-top: 20px;
+    font-weight: bold;
+    font-size:20px;
+    color: #34495E;
+	background:#2ecc71;
+	width:52px;
+}
+p.first_title_cursos{
+	margin-top: 20px;
+    font-weight: bold;
+    font-size:20px;
+    color: #34495E;
+	background:#2ecc71;
+	width:71px;
+}
+
+p.first_title_certificacion{
+	margin-top: 20px;
+    font-weight: bold;
+    font-size:20px;
+    color: #34495E;
+	background:#2ecc71;
+	width:145px;
+}
+
+
+p.first_title_educacion{
+	margin-top: 20px;
+    font-weight: bold;
+    font-size:20px;
+    color: #34495E;
+	background:#2ecc71;
+	width:101px;
+}
+p.first_title_trabajo{
+	margin-top: 20px;
+    font-weight: bold;
+    font-size:20px;
+    color: #34495E;
+	background:#2ecc71;
+	width:73px;
+}
+
+#ga-address{
+  margin-top:10px
+}
+
+#ga-descripcion{
+  margin-top:15%;
+}
+
+
+#ga-slide{
+	background-image: url('../img/bio.png');
+  background-position: center bottom;
+  width: 100%;
+  z-index: 1000;
+  height: 250px;
+  vertical-align: middle;
+  position: relative;
+  overflow: hidden;
+  background-position: center center;
+  background-repeat: repeat-y;
+  background-size: cover;
+}
+
+#ga-slide img{
+margin:4% auto auto 50%;
+width:220px;
+ }
+
+#ga-slide h1{
+font-size:58px;
+font-family: 'Pacifico', cursive;
+margin:80px auto auto auto ;
+}
+
+#ga-slide small{
+font-size:14px;
+font-family: 'Russo One', sans-serif;
+letter-spacing: 16px;
+}
+
+
+.ga-completo{ 
+color:#EB3824;
+}
+
+.ga-incompleto{
+color:#FC7C59;
+}
